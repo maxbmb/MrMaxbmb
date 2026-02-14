@@ -5,9 +5,9 @@
 ### I'm Maksim, machine learning engineer from Russia 🤘🏻
 
 </div>
-Welcome to my page! I'm a student at BMSTU (Bauman Moscow State Technical University). I'm interested in ML, DL, NLP, CV, RecSys and Data Science, Analytics in general.
+I'm interested in ML, DL, NLP, CV, RecSys and Data Science, Analytics in general.
 
-My main programming language is Python, which I use for machine learning and data science. I'm familiar with both classical methods (linear and logistic regression, gradient boosting, KNN, Random Forest, naive Bayes, decision trees, SVM, etc.) and deep learning models (neural networks, CNNs, RNNs, transformers, LLMs like GPT, BERT for NLP, and attention mechanisms). I use Google Colab and other tools to train models. I've also participated in Kaggle competitions.
+My main programming language is Python, which I use for machine learning and data science. I'm familiar with both classical ML algorithms and deep learning models (LLM, RAG). I use Google Colab and other tools to train models. I've also participated in Kaggle competitions.
 
 ## 🌍 Where to find me
 
