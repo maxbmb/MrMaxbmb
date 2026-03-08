@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=52FF1A00&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
-### I'm Maksim, machine learning engineer from Russia 🤘🏻
+### I'm Maksim, machine learning engineer 🤘🏻
 
 </div>
 I'm interested in ML, DL, NLP, CV, RecSys and Data Science, Analytics in general.
