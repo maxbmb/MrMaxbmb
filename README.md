@@ -85,11 +85,6 @@ My main programming language is Python, which I use for machine learning and dat
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMaxbmb&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=jupyter%20notebook)
-
 ## Add some randomness to your day 🥰
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
